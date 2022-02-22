@@ -3,4 +3,4 @@ const lastName = prompt("What's your last name?", "Last name");
 const color = prompt("What's your favorite color?", "Color");
 
 
-document.getElementById("password").innerHTML = name + lastName + color + 21;
+document.getElementById("password").innerHTML = name + lastName + color + 22;
